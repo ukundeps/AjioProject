@@ -1,0 +1,84 @@
+2020-May-28 17:02:14,600 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 17:02:18,802 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 17:02:24,884 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 17:02:26,785 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 17:02:26,793 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 17:02:26,801 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 17:02:26,815 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signIn/JoinAjio
+2020-May-28 17:02:26,819 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:02:26,822 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[@class="login-form login-modal"]
+2020-May-28 17:02:27,078 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 17:02:27,078 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: continue
+2020-May-28 17:02:27,078 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:02:27,082 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="Continue"]
+2020-May-28 17:02:27,226 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 17:02:27,230 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: emailErrorMsg
+2020-May-28 17:02:27,230 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:02:27,230 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[@id="error-msg"]
+2020-May-28 17:02:27,278 [main] com.ajio.keyword.Keyword 
+  INFO  Please enter valid Mobile Number / Email. returned Text !!
+2020-May-28 17:02:27,454 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-May-28 17:02:33,089 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 17:02:37,235 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 17:02:43,301 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 17:02:44,913 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 17:02:44,921 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 17:02:44,929 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 17:02:44,939 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signIn/JoinAjio
+2020-May-28 17:02:44,941 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:02:44,942 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[@class="login-form login-modal"]
+2020-May-28 17:02:45,227 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 17:02:45,227 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: email
+2020-May-28 17:02:45,231 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:02:45,231 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@name="username"]
+2020-May-28 17:02:45,491 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: continue
+2020-May-28 17:02:45,491 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:02:45,491 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="Continue"]
+2020-May-28 17:02:45,591 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 17:02:45,595 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: loginForm
+2020-May-28 17:02:45,595 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:02:45,595 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[@class="modal-login-container"]/descendant::form[@class="login-form"]
+2020-May-28 17:02:46,947 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-May-28 17:02:52,826 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 17:02:56,984 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!

@@ -1,0 +1,52 @@
+2020-May-28 02:10:01,981 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 02:10:04,749 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 02:10:04,758 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 02:10:04,765 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 02:10:05,141 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 02:10:05,913 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 02:10:07,186 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-May-28 02:10:14,618 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 02:10:18,797 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 02:10:25,657 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 02:10:30,837 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 02:10:30,840 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 02:10:30,848 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 02:10:31,024 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 02:10:31,692 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 02:10:33,579 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-May-28 02:10:40,762 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 02:10:44,917 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 02:10:51,950 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 02:10:54,684 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 02:10:54,699 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 02:10:54,722 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 02:10:55,034 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 02:10:55,433 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 02:10:56,797 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on sendOTP
+2020-May-28 02:10:56,844 [main] com.ajio.keyword.Keyword 
+  INFO  Use only alphabets and an optional single space between words. returned Text !!

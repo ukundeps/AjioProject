@@ -1,0 +1,8 @@
+2020-May-30 22:35:13,770 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-30 22:35:19,728 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-30 22:35:19,796 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-30 22:35:19,806 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!

@@ -1,0 +1,12 @@
+2020-May-30 03:12:03,635 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on submit
+2020-May-30 03:12:03,787 [main] com.ajio.keyword.Keyword 
+  INFO  5SECONDS Explicit wait is applied!!
+2020-May-30 03:12:03,787 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: resultTotalCount
+2020-May-30 03:12:03,788 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 03:12:03,789 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[@class="length"]
+2020-May-30 03:12:04,927 [main] com.ajio.keyword.Keyword 
+  INFO  34,300 Items Found returned Text !!

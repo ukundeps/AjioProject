@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="325326" started-at="2020-06-01T16:33:01Z" finished-at="2020-06-01T16:38:26Z">
+    <groups>
+      <group name="Usability Testing">
+        <method signature="HomepagePageTests.verify_CustomerCare_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_CustomerCare_Link_is_visible" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_Homepage_Title()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_Homepage_Title" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_ShopKids_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopKids_Link_is_visible" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_ShopMen_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopMen_Link_is_visible" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_ShopSale_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopSale_Link_is_visible" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_ShopWomen_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopWomen_Link_is_visible" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_signIn_JoinAjio_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_signIn_JoinAjio_Link_is_visible" class="com.ajio.PageTests.HomepagePageTests"/>
+      </group> <!-- Usability Testing -->
+      <group name="Functional Testing">
+        <method signature="HomepagePageTests.verify_Customercare_Link_is_Redirecting_to_customerCarePage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_Customercare_Link_is_Redirecting_to_customerCarePage" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_ShopKids_Link_is_Redirecting_to_KidsPage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopKids_Link_is_Redirecting_to_KidsPage" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_ShopMen_Link_is_Redirecting_to_MenPage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopMen_Link_is_Redirecting_to_MenPage" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_ShopSale_Link_is_Redirecting_to_SalePage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopSale_Link_is_Redirecting_to_SalePage" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_ShopWomen_Link_is_Redirecting_to_WomenPage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopWomen_Link_is_Redirecting_to_WomenPage" class="com.ajio.PageTests.HomepagePageTests"/>
+        <method signature="HomepagePageTests.verify_signIn_JoinAjio_Link_is_Redirecting_to_signUpModalPopUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_signIn_JoinAjio_Link_is_Redirecting_to_signUpModalPopUp" class="com.ajio.PageTests.HomepagePageTests"/>
+      </group> <!-- Functional Testing -->
+    </groups>
+    <test name="Default test" duration-ms="325326" started-at="2020-06-01T16:33:01Z" finished-at="2020-06-01T16:38:26Z">
+      <class name="com.ajio.PageTests.HomepagePageTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="22957" started-at="2020-06-01T22:03:01Z" finished-at="2020-06-01T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_CustomerCare_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_CustomerCare_Link_is_visible" duration-ms="84" started-at="2020-06-01T22:03:24Z" description="To verify Customer care Link is visible  on homepage " finished-at="2020-06-01T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_CustomerCare_Link_is_visible -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="4419" started-at="2020-06-01T22:03:24Z" finished-at="2020-06-01T22:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="20527" started-at="2020-06-01T22:03:28Z" finished-at="2020-06-01T22:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_Customercare_Link_is_Redirecting_to_customerCarePage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_Customercare_Link_is_Redirecting_to_customerCarePage" duration-ms="2996" started-at="2020-06-01T22:03:49Z" description="To verify Customer care Link is  redirecting to Ajio Customer Care page " finished-at="2020-06-01T22:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Customercare_Link_is_Redirecting_to_customerCarePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="4131" started-at="2020-06-01T22:03:52Z" finished-at="2020-06-01T22:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="19825" started-at="2020-06-01T22:03:56Z" finished-at="2020-06-01T22:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_Homepage_Title()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_Homepage_Title" duration-ms="13" started-at="2020-06-01T22:04:16Z" description="To verify title of homepage" finished-at="2020-06-01T22:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Homepage_Title -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="4403" started-at="2020-06-01T22:04:16Z" finished-at="2020-06-01T22:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="20125" started-at="2020-06-01T22:04:20Z" finished-at="2020-06-01T22:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_ShopKids_Link_is_Redirecting_to_KidsPage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopKids_Link_is_Redirecting_to_KidsPage" duration-ms="4020" started-at="2020-06-01T22:04:40Z" description="To verify Shop Kids Link is  redirecting to Kids  Page" finished-at="2020-06-01T22:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ShopKids_Link_is_Redirecting_to_KidsPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="4116" started-at="2020-06-01T22:04:44Z" finished-at="2020-06-01T22:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="19861" started-at="2020-06-01T22:04:49Z" finished-at="2020-06-01T22:05:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_ShopKids_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopKids_Link_is_visible" duration-ms="55" started-at="2020-06-01T22:05:08Z" description="To verify Shop Kids Link is visible  on homepage " finished-at="2020-06-01T22:05:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ShopKids_Link_is_visible -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="4109" started-at="2020-06-01T22:05:08Z" finished-at="2020-06-01T22:05:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="21835" started-at="2020-06-01T22:05:13Z" finished-at="2020-06-01T22:05:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_ShopMen_Link_is_Redirecting_to_MenPage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopMen_Link_is_Redirecting_to_MenPage" duration-ms="5026" started-at="2020-06-01T22:05:34Z" description="To verify Shop men Link is  redirecting to Men  Page" finished-at="2020-06-01T22:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ShopMen_Link_is_Redirecting_to_MenPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="380" started-at="2020-06-01T22:05:39Z" finished-at="2020-06-01T22:05:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="20615" started-at="2020-06-01T22:05:40Z" finished-at="2020-06-01T22:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_ShopMen_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopMen_Link_is_visible" duration-ms="68" started-at="2020-06-01T22:06:00Z" description="To verify Shop men Link is visible  on homepage " finished-at="2020-06-01T22:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ShopMen_Link_is_visible -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="203" started-at="2020-06-01T22:06:01Z" finished-at="2020-06-01T22:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="19314" started-at="2020-06-01T22:06:01Z" finished-at="2020-06-01T22:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_ShopSale_Link_is_Redirecting_to_SalePage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopSale_Link_is_Redirecting_to_SalePage" duration-ms="7130" started-at="2020-06-01T22:06:20Z" description="To verify Shop sale Link is redirecting to Sale Page" finished-at="2020-06-01T22:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ShopSale_Link_is_Redirecting_to_SalePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="4134" started-at="2020-06-01T22:06:27Z" finished-at="2020-06-01T22:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="20538" started-at="2020-06-01T22:06:31Z" finished-at="2020-06-01T22:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_ShopSale_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopSale_Link_is_visible" duration-ms="143" started-at="2020-06-01T22:06:52Z" description="To verify Shop sale Link is visible  on homepage " finished-at="2020-06-01T22:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ShopSale_Link_is_visible -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="4109" started-at="2020-06-01T22:06:52Z" finished-at="2020-06-01T22:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="20636" started-at="2020-06-01T22:06:56Z" finished-at="2020-06-01T22:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_ShopWomen_Link_is_Redirecting_to_WomenPage()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopWomen_Link_is_Redirecting_to_WomenPage" duration-ms="5790" started-at="2020-06-01T22:07:17Z" description="To verify Shop women Link is  redirecting to Women Page" finished-at="2020-06-01T22:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ShopWomen_Link_is_Redirecting_to_WomenPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="302" started-at="2020-06-01T22:07:23Z" finished-at="2020-06-01T22:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="20294" started-at="2020-06-01T22:07:23Z" finished-at="2020-06-01T22:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_ShopWomen_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_ShopWomen_Link_is_visible" duration-ms="45" started-at="2020-06-01T22:07:43Z" description="To verify Shop women Link is visible  on homepage " finished-at="2020-06-01T22:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ShopWomen_Link_is_visible -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="220" started-at="2020-06-01T22:07:43Z" finished-at="2020-06-01T22:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="22181" started-at="2020-06-01T22:07:43Z" finished-at="2020-06-01T22:08:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_signIn_JoinAjio_Link_is_Redirecting_to_signUpModalPopUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_signIn_JoinAjio_Link_is_Redirecting_to_signUpModalPopUp" duration-ms="237" started-at="2020-06-01T22:08:06Z" description="To verify signIn_JoinAjio Link is redirecting to  signUpModalPopUp " finished-at="2020-06-01T22:08:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_signIn_JoinAjio_Link_is_Redirecting_to_signUpModalPopUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="172" started-at="2020-06-01T22:08:06Z" finished-at="2020-06-01T22:08:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="setUp" is-config="true" duration-ms="19604" started-at="2020-06-01T22:08:06Z" finished-at="2020-06-01T22:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_signIn_JoinAjio_Link_is_visible()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="verify_signIn_JoinAjio_Link_is_visible" duration-ms="149" started-at="2020-06-01T22:08:26Z" description="To verify signIn_JoinAjio Link is visible  on homepage " finished-at="2020-06-01T22:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_signIn_JoinAjio_Link_is_visible -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ajio.PageTests.HomepagePageTests@6fc6f14e]" name="tearDown" is-config="true" duration-ms="496" started-at="2020-06-01T22:08:26Z" finished-at="2020-06-01T22:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ajio.PageTests.HomepagePageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,26 @@
+2020-May-30 02:35:25,851 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-30 02:35:30,055 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-30 02:35:38,028 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-30 02:35:43,159 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-30 02:35:43,166 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-30 02:35:43,172 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-30 02:35:43,198 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: collection
+2020-May-30 02:35:43,201 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 02:35:43,202 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //a[text()='Collections']
+2020-May-30 02:35:45,818 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on collection
+2020-May-30 02:35:45,819 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: searchBox
+2020-May-30 02:35:45,821 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 02:35:45,823 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@placeholder="Search AJIO"]

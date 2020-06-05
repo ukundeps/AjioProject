@@ -1,0 +1,46 @@
+2020-May-28 02:11:01,161 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-May-28 02:11:07,152 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 02:11:11,331 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 02:11:18,456 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 02:11:22,117 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 02:11:22,146 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 02:11:22,152 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 02:11:22,720 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 02:11:23,851 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 02:11:25,197 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on sendOTP
+2020-May-28 02:11:25,294 [main] com.ajio.keyword.Keyword 
+  INFO  Use only alphabets and an optional single space between words. returned Text !!
+2020-May-28 02:11:25,734 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-May-28 02:11:32,045 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 02:11:36,187 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 02:11:45,660 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 02:11:48,434 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 02:11:48,447 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 02:11:48,455 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 02:11:48,676 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 02:11:50,031 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 02:11:51,364 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on sendOTP
+2020-May-28 02:11:51,407 [main] com.ajio.keyword.Keyword 
+  INFO  Use only alphabets and an optional single space between words. returned Text !!
+2020-May-28 02:11:55,528 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!

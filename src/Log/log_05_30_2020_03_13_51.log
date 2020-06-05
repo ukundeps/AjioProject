@@ -1,0 +1,44 @@
+2020-May-30 03:13:31,629 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-30 03:13:35,881 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-30 03:13:41,157 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-30 03:13:44,429 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-30 03:13:44,435 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-30 03:13:44,440 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-30 03:13:44,448 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: collection
+2020-May-30 03:13:44,450 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 03:13:44,451 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //a[text()='Collections']
+2020-May-30 03:13:47,587 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on collection
+2020-May-30 03:13:47,587 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: searchBox
+2020-May-30 03:13:47,588 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 03:13:47,588 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@placeholder="Search AJIO"]
+2020-May-30 03:13:48,010 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: submit
+2020-May-30 03:13:48,011 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 03:13:48,012 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //button[@type="submit"]
+2020-May-30 03:13:50,995 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on submit
+2020-May-30 03:13:51,023 [main] com.ajio.keyword.Keyword 
+  INFO  5SECONDS Explicit wait is applied!!
+2020-May-30 03:13:51,023 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: resultTotalCount
+2020-May-30 03:13:51,024 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 03:13:51,025 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[@class="length"]
+2020-May-30 03:13:51,764 [main] com.ajio.keyword.Keyword 
+  INFO  34,300 Items Found returned Text !!

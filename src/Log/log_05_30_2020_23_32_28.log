@@ -1,0 +1,12 @@
+2020-May-30 23:32:04,318 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-30 23:32:08,656 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-30 23:32:25,535 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-30 23:32:28,118 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-30 23:32:28,159 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-30 23:32:28,169 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!

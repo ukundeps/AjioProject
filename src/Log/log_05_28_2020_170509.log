@@ -1,0 +1,152 @@
+2020-May-28 17:05:09,770 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 17:05:12,571 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 17:05:12,583 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 17:05:12,587 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 17:05:12,592 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signIn/JoinAjio
+2020-May-28 17:05:12,596 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:12,596 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[@class="login-form login-modal"]
+2020-May-28 17:05:12,944 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 17:05:12,944 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: email
+2020-May-28 17:05:12,944 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:12,944 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@name="username"]
+2020-May-28 17:05:13,204 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: continue
+2020-May-28 17:05:13,204 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:13,204 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="Continue"]
+2020-May-28 17:05:13,308 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 17:05:13,308 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: mobile
+2020-May-28 17:05:13,308 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:13,308 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@placeholder="Mobile"]
+2020-May-28 17:05:14,962 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: sendOTP
+2020-May-28 17:05:14,962 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:14,962 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="SEND OTP"]
+2020-May-28 17:05:15,054 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on sendOTP
+2020-May-28 17:05:15,054 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: mobileErrorMsg
+2020-May-28 17:05:15,054 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:15,058 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[text()="Please enter a valid Mobile number."]
+2020-May-28 17:05:15,094 [main] com.ajio.keyword.Keyword 
+  INFO  Please enter a valid Mobile number. returned Text !!
+2020-May-28 17:05:15,283 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-May-28 17:05:21,232 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 17:05:25,371 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 17:05:30,484 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 17:05:33,340 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 17:05:33,344 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 17:05:33,352 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 17:05:33,359 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signIn/JoinAjio
+2020-May-28 17:05:33,360 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:33,362 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[@class="login-form login-modal"]
+2020-May-28 17:05:33,663 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 17:05:33,663 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: email
+2020-May-28 17:05:33,663 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:33,663 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@name="username"]
+2020-May-28 17:05:34,119 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: continue
+2020-May-28 17:05:34,119 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:34,123 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="Continue"]
+2020-May-28 17:05:34,383 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 17:05:34,383 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: mobile
+2020-May-28 17:05:34,383 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:34,383 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@placeholder="Mobile"]
+2020-May-28 17:05:35,804 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: sendOTP
+2020-May-28 17:05:35,804 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:35,804 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="SEND OTP"]
+2020-May-28 17:05:35,944 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on sendOTP
+2020-May-28 17:05:35,944 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: mobileErrorMsg
+2020-May-28 17:05:35,944 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:35,944 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[text()="Please enter a valid Mobile number."]
+2020-May-28 17:05:36,004 [main] com.ajio.keyword.Keyword 
+  INFO  Please enter a valid Mobile number. returned Text !!
+2020-May-28 17:05:40,204 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-May-28 17:05:46,065 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 17:05:50,201 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 17:05:55,541 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 17:05:58,278 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 17:05:58,290 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 17:05:58,302 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 17:05:58,314 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signIn/JoinAjio
+2020-May-28 17:05:58,318 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:58,318 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[@class="login-form login-modal"]
+2020-May-28 17:05:58,531 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 17:05:58,531 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: email
+2020-May-28 17:05:58,531 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:58,535 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@name="username"]
+2020-May-28 17:05:58,799 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: continue
+2020-May-28 17:05:58,799 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:58,799 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="Continue"]
+2020-May-28 17:05:58,919 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 17:05:58,919 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: mobile
+2020-May-28 17:05:58,919 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 17:05:58,919 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@placeholder="Mobile"]

@@ -1,0 +1,58 @@
+2020-May-28 16:57:38,666 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 16:57:42,871 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 16:57:48,673 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 16:57:51,659 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 16:57:51,675 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 16:57:51,687 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 16:57:51,708 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signIn/JoinAjio
+2020-May-28 16:57:51,716 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 16:57:51,720 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[@class="login-form login-modal"]
+2020-May-28 16:57:52,028 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 16:57:52,028 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: email
+2020-May-28 16:57:52,028 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 16:57:52,028 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@name="username"]
+2020-May-28 16:57:52,548 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: continue
+2020-May-28 16:57:52,548 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 16:57:52,548 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="Continue"]
+2020-May-28 16:57:52,796 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 16:57:52,796 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: password
+2020-May-28 16:57:52,796 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 16:57:52,796 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@name="pwd"]
+2020-May-28 16:57:53,833 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: sendOTP
+2020-May-28 16:57:53,833 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 16:57:53,833 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="SEND OTP"]
+2020-May-28 16:57:53,977 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on sendOTP
+2020-May-28 16:57:53,981 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: passErrorMsg
+2020-May-28 16:57:53,981 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 16:57:53,981 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[contains(text(),"Password should have")]
+2020-May-28 16:57:54,045 [main] com.ajio.keyword.Keyword 
+  INFO  Password should have a minimum of 8 characters with atleast one number, one alphabet and one special character. returned Text !!
+2020-May-28 16:57:58,207 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!

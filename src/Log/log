@@ -1,0 +1,22 @@
+2020-Jun-01 22:08:04,389 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-01 22:08:06,072 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-01 22:08:06,076 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-01 22:08:06,084 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-01 22:08:12,296 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-01 22:08:16,454 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-01 22:08:23,309 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-01 22:08:26,089 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-01 22:08:26,097 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-01 22:08:26,101 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-01 22:08:26,190 [main] com.ajio.PageTests.HomepagePageTests 
+  INFO  signIn_JoinAjio  Link is visible

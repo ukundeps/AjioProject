@@ -1,0 +1,24 @@
+2020-May-28 02:09:21,623 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 02:09:25,887 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-28 02:09:32,399 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-28 02:09:36,787 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-28 02:09:36,804 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-28 02:09:36,814 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-28 02:09:37,254 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-28 02:09:37,493 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on continue
+2020-May-28 02:09:37,542 [main] com.ajio.keyword.Keyword 
+  INFO  Please enter valid Mobile Number / Email. returned Text !!
+2020-May-28 02:09:41,927 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-May-28 02:09:47,940 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-28 02:09:52,100 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!

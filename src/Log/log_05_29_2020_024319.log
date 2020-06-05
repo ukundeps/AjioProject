@@ -1,0 +1,54 @@
+2020-May-29 02:43:03,159 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-29 02:43:03,171 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-29 02:43:03,175 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-29 02:43:03,184 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signIn/JoinAjio
+2020-May-29 02:43:03,184 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:43:03,184 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[@class="login-form login-modal"]
+2020-May-29 02:43:03,344 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-29 02:43:03,348 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: facebookSignIn
+2020-May-29 02:43:03,368 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:43:03,368 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[@class="fb-login"]
+2020-May-29 02:43:03,540 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on facebookSignIn
+2020-May-29 02:43:03,564 [main] com.ajio.keyword.Keyword 
+  INFO  5SECONDS Explicit wait is applied!!
+2020-May-29 02:43:08,991 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: facebookEmail
+2020-May-29 02:43:08,991 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:43:08,991 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@id="email"]
+2020-May-29 02:43:09,217 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: facebookPass
+2020-May-29 02:43:09,217 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:43:09,217 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@id="pass"]
+2020-May-29 02:43:09,365 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: facebookLogin
+2020-May-29 02:43:09,365 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:43:09,365 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@name="login"]
+2020-May-29 02:43:09,481 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on facebookLogin
+2020-May-29 02:43:09,481 [main] com.ajio.keyword.Keyword 
+  INFO  10SECONDS Explicit wait is applied!!
+2020-May-29 02:43:09,517 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signOut
+2020-May-29 02:43:09,517 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:43:09,517 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //a[text()='Sign Out']
+2020-May-29 02:43:19,881 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!

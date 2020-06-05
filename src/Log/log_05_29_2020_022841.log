@@ -1,0 +1,30 @@
+2020-May-29 02:28:41,159 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-29 02:28:45,337 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-29 02:28:51,169 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-29 02:28:54,943 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-29 02:28:54,951 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-29 02:28:54,959 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-29 02:28:54,968 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signIn/JoinAjio
+2020-May-29 02:28:54,972 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:28:54,972 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[@class="login-form login-modal"]
+2020-May-29 02:28:55,108 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-29 02:28:55,112 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: facebookSignIn
+2020-May-29 02:28:55,112 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:28:55,112 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[@class="fb-login"]
+2020-May-29 02:28:55,249 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on facebookSignIn
+2020-May-29 02:28:55,281 [main] com.ajio.keyword.Keyword 
+  INFO  8SECONDS Explicit wait is applied!!

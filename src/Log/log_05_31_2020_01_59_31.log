@@ -1,0 +1,18 @@
+2020-May-31 01:59:31,276 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-31 01:59:35,417 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-31 01:59:42,415 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-31 01:59:46,552 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-31 01:59:46,563 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-31 01:59:46,572 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-31 01:59:46,612 [main] com.ajio.keyword.Keyword 
+  INFO  Online Shopping for Women, Men, Kids – Clothing, Footwear, Fashion | AJIO  :Returned Current Webpage Title!!
+2020-May-31 01:59:52,705 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-31 01:59:56,840 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!

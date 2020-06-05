@@ -1,0 +1,18 @@
+2020-May-28 16:51:01,075 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: sendOTP
+2020-May-28 16:51:01,079 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 16:51:01,079 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@value="SEND OTP"]
+2020-May-28 16:51:01,187 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on sendOTP
+2020-May-28 16:51:01,187 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: passErrorMsg
+2020-May-28 16:51:01,187 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-28 16:51:01,187 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //div[contains(text(),"Password should have")]
+2020-May-28 16:51:21,871 [main] com.ajio.keyword.Keyword 
+  INFO  Screenshot taken Successfully!!
+2020-May-28 16:51:22,047 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!

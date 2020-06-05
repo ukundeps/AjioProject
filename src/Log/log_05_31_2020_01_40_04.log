@@ -1,0 +1,26 @@
+2020-May-31 01:40:04,817 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-31 01:40:09,231 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-31 01:40:19,292 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-31 01:40:21,953 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-31 01:40:21,958 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-31 01:40:21,963 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-31 01:40:29,490 [main] com.ajio.keyword.Keyword 
+  INFO  Online Shopping for Women – Clothing, Footwear, Fashion & Accessories | AJIO  :Returned Current Webpage Title!!
+2020-May-31 01:40:36,118 [main] com.ajio.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-May-31 01:40:40,274 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-31 01:40:52,686 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-31 01:40:54,450 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-31 01:40:54,454 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-31 01:40:54,459 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!

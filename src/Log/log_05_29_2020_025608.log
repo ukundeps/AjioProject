@@ -1,0 +1,28 @@
+2020-May-29 02:56:00,655 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-29 02:56:03,596 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-29 02:56:03,604 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-29 02:56:03,612 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-29 02:56:03,624 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: signIn/JoinAjio
+2020-May-29 02:56:03,630 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:56:03,630 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[@class="login-form login-modal"]
+2020-May-29 02:56:03,909 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on signIn/JoinAjio
+2020-May-29 02:56:03,917 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: googleSignIn
+2020-May-29 02:56:03,921 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-29 02:56:03,921 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //span[text()='GOOGLE']
+2020-May-29 02:56:04,061 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on googleSignIn
+2020-May-29 02:56:04,081 [main] com.ajio.keyword.Keyword 
+  INFO  5SECONDS Explicit wait is applied!!
+2020-May-29 02:56:08,490 [main] com.ajio.keyword.Keyword 
+  INFO  Current browser window is Closed!!

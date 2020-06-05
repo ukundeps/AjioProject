@@ -1,0 +1,14 @@
+2020-May-30 02:12:03,222 [main] com.ajio.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-May-30 02:12:12,283 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-30 02:12:14,911 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-30 02:12:14,922 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-30 02:12:14,936 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-30 02:12:14,960 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: collection
+2020-May-30 02:12:14,969 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath#//a[text()='Collections']

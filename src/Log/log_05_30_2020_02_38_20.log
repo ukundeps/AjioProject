@@ -1,0 +1,30 @@
+2020-May-30 02:38:08,961 [main] com.ajio.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-May-30 02:38:12,569 [main] com.ajio.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-May-30 02:38:12,575 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-May-30 02:38:12,581 [main] com.ajio.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-May-30 02:38:12,594 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: collection
+2020-May-30 02:38:12,598 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 02:38:12,599 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //a[text()='Collections']
+2020-May-30 02:38:16,489 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on collection
+2020-May-30 02:38:16,581 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: searchBox
+2020-May-30 02:38:16,582 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 02:38:16,582 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //input[@placeholder="Search AJIO"]
+2020-May-30 02:38:16,829 [main] com.ajio.keyword.Keyword 
+  INFO  Splitting locatorName: submit
+2020-May-30 02:38:16,830 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Type: xpath
+2020-May-30 02:38:16,831 [main] com.ajio.keyword.Keyword 
+  INFO  Locator Value: //button[@type="submit"]
+2020-May-30 02:38:20,921 [main] com.ajio.keyword.Keyword 
+  INFO  Clicked on submit
